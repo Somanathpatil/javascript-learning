@@ -5,6 +5,6 @@
 
 // let valueInNumber = Number(score)
 // console.log(typeof valueInNumber)
-
+console.log("hellow world")
 
 //* operations
